@@ -1,1 +1,2 @@
 # music-player
+play music
